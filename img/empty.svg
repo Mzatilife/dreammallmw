@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg2"
+    sodipodi:docname="cardboard box.svg"
+    viewBox="0 0 306.94 235.48"
+    sodipodi:version="0.32"
+    version="1.0"
+    inkscape:output_extension="org.inkscape.output.svg.inkscape"
+    inkscape:version="0.48.2 r9819"
+  >
+  <defs
+      id="defs5"
+    >
+    <linearGradient
+        id="linearGradient4237"
+      >
+      <stop
+          id="stop4239"
+          style="stop-color:#b9793f"
+          offset="0"
+      />
+      <stop
+          id="stop4241"
+          style="stop-color:#704b27"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient2197"
+        y2="469.15"
+        xlink:href="#linearGradient4237"
+        gradientUnits="userSpaceOnUse"
+        x2="261.12"
+        gradientTransform="translate(311.3 -227.78)"
+        y1="402.39"
+        x1="226.34"
+        inkscape:collect="always"
+    />
+    <linearGradient
+        id="linearGradient2199"
+        y2="452.26"
+        xlink:href="#linearGradient4237"
+        gradientUnits="userSpaceOnUse"
+        x2="217.97"
+        gradientTransform="translate(292.32 -183.18)"
+        y1="617.2"
+        x1="444.11"
+        inkscape:collect="always"
+    />
+    <linearGradient
+        id="linearGradient2201"
+        y2="567.3"
+        xlink:href="#linearGradient4237"
+        gradientUnits="userSpaceOnUse"
+        x2="630.61"
+        gradientTransform="translate(266.7 -205.01)"
+        y1="393.08"
+        x1="637.95"
+        inkscape:collect="always"
+    />
+    <linearGradient
+        id="linearGradient2203"
+        y2="612.57"
+        xlink:href="#linearGradient4237"
+        gradientUnits="userSpaceOnUse"
+        x2="445.34"
+        gradientTransform="translate(292.32 -183.18)"
+        y1="503.91"
+        x1="608.62"
+        inkscape:collect="always"
+    />
+    <linearGradient
+        id="linearGradient2205"
+        y2="644.77"
+        xlink:href="#linearGradient4237"
+        gradientUnits="userSpaceOnUse"
+        x2="440.25"
+        gradientTransform="translate(292.32 -183.18)"
+        y1="432.99"
+        x1="380.83"
+        inkscape:collect="always"
+    />
+    <linearGradient
+        id="linearGradient2207"
+        y2="674.25"
+        xlink:href="#linearGradient4237"
+        gradientUnits="userSpaceOnUse"
+        x2="472.53"
+        gradientTransform="translate(297.07 -238.22)"
+        y1="569.84"
+        x1="582.69"
+        inkscape:collect="always"
+    />
+    <linearGradient
+        id="linearGradient2209"
+        y2="712.58"
+        xlink:href="#linearGradient4237"
+        gradientUnits="userSpaceOnUse"
+        x2="345.65"
+        gradientTransform="translate(297.79 -238.87)"
+        y1="603.48"
+        x1="352.16"
+        inkscape:collect="always"
+    />
+  </defs
+  >
+  <sodipodi:namedview
+      id="base"
+      fit-margin-left="0"
+      inkscape:zoom="1.0536296"
+      borderopacity="1.0"
+      inkscape:current-layer="layer2"
+      inkscape:cx="215.41906"
+      inkscape:cy="117.34216"
+      inkscape:window-maximized="1"
+      showgrid="false"
+      fit-margin-right="0"
+      bordercolor="#666666"
+      inkscape:window-x="0"
+      guidetolerance="10.0"
+      objecttolerance="10.0"
+      inkscape:window-y="0"
+      fit-margin-bottom="0"
+      inkscape:window-width="1680"
+      inkscape:pageopacity="0.0"
+      inkscape:pageshadow="2"
+      pagecolor="#ffffff"
+      gridtolerance="10.0"
+      inkscape:window-height="1002"
+      fit-margin-top="0"
+  />
+  <g
+      id="layer2"
+      inkscape:groupmode="layer"
+      transform="translate(-442.2 -227.32)"
+    >
+    <g
+        id="g3046"
+        transform="matrix(.57812 0 0 .57812 186.55 195.38)"
+      >
+      <path
+          id="path2176"
+          d="m685.56 139.7-43.926-50.435-177.4 98.397 62.279 61.821c4.1675-0.1929 160.06-110.65 159.05-109.78z"
+          sodipodi:nodetypes="ccccc"
+          style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-width:5.5637;fill:url(#linearGradient2197)"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path10131"
+          d="m736.44 405.23-1.8041 54.725-224.34-165.04 2.4021-52.954 223.74 163.27z"
+          sodipodi:nodetypes="ccccc"
+          style="fill-rule:evenodd;fill:url(#linearGradient2199)"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path2182"
+          d="m687.66 137.62c5.6941-4.0672 63.491-79.588 63.491-79.588l219.19 155.02-94.78 113.29"
+          sodipodi:nodetypes="cccc"
+          style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:5.5637;fill:url(#linearGradient2201)"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path4155"
+          d="m736.13 403.95-2.3533 56.094 169.25-113.13-0.79312-52.743-166.1 109.78z"
+          sodipodi:nodetypes="ccccc"
+          style="fill-rule:evenodd;fill:url(#linearGradient2203)"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path13049"
+          inkscape:connector-curvature="0"
+          sodipodi:nodetypes="ccccc"
+          style="fill-rule:evenodd;fill:#ffffff;fill-opacity:.2"
+          d="m862.07 355.24-2.7371 25.104-56.229 34.924 0.62039-21.699z"
+      />
+      <path
+          id="path2174"
+          d="m512.03 241.21 174.81-101.68 215.56 153.74-165.88 111.76-224.49-163.82z"
+          sodipodi:nodetypes="ccccc"
+          style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-width:5.5637;fill:url(#linearGradient2205)"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path2178"
+          d="m511.95 241.41-3.0716 53.633"
+          sodipodi:nodetypes="cc"
+          style="stroke:#000000;stroke-linecap:round;stroke-width:5.5121;fill:none"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path2184"
+          d="m737.95 404.17 46.47 1.8922 168.44-110.15-50.357-3.3368z"
+          sodipodi:nodetypes="ccccc"
+          style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-linecap:round;stroke-width:5.5637;fill:url(#linearGradient2207)"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path2188"
+          d="m514.88 239.9-69.901 36.41 220.93 164.3 73.999-37.144z"
+          sodipodi:nodetypes="ccccc"
+          style="stroke-linejoin:round;fill-rule:evenodd;stroke:#000000;stroke-width:5.564;fill:url(#linearGradient2209)"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path2186"
+          d="m625.27 224.32 179.79 132.45"
+          sodipodi:nodetypes="cc"
+          style="stroke:#000000;stroke-width:5.5637;fill:none"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path2190"
+          d="m771.85 426.41-1.1907-12.441 10.644-4.4537-20.651-6.0346-18.387 23.226 9.9026-3.6117-0.62811 11.961 20.311-8.6464z"
+          sodipodi:nodetypes="cccccccc"
+          style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;fill:#000000"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path9160"
+          d="m684 142.41 1.9404 52.669-0.3911 0.66835"
+          sodipodi:nodetypes="ccc"
+          style="stroke:#000000;stroke-width:5.5637;fill:none"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path3014"
+          sodipodi:nodetypes="cc"
+          style="stroke:#000000;stroke-width:5.08;fill:none"
+          inkscape:connector-curvature="0"
+          d="m683.18 190.16 179.4 130.2"
+      />
+      <path
+          id="path3016"
+          d="m683.07 192.31-129.04 73.26"
+          sodipodi:nodetypes="cc"
+          style="stroke:#000000;stroke-width:5.5637;fill:none"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path3018"
+          sodipodi:nodetypes="cc"
+          style="stroke:#000000;stroke-width:5.7731;fill:none"
+          inkscape:connector-curvature="0"
+          d="m690.83 428.68 43.039 31.568"
+      />
+      <path
+          id="path3020"
+          d="m902.92 347.74-171.13 112.66"
+          sodipodi:nodetypes="cc"
+          style="stroke:#000000;stroke-linecap:round;stroke-width:4.1825;fill:none"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path3022"
+          sodipodi:nodetypes="cc"
+          style="stroke:#000000;stroke-width:4.2708;fill:none"
+          inkscape:connector-curvature="0"
+          d="m903.49 347.96-0.35353-21.063"
+      />
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Cardbard box</dc:title
+        >
+        <dc:date
+          >2012-06-08T05:52:10</dc:date
+        >
+        <dc:description
+          >A open cardboard box</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/170471/cardbard-box-by-rdevries-170471</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >rdevries</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >box</rdf:li
+            >
+            <rdf:li
+              >cardboard</rdf:li
+            >
+            <rdf:li
+              >cardboard box</rdf:li
+            >
+            <rdf:li
+              >pasteboard</rdf:li
+            >
+            <rdf:li
+              >pasteboard box</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
